@@ -5,7 +5,7 @@
     }
     
 .chest1{
-   background-color: blueviolet;
+   background-color: blue;
     width: 160px;
     height: 110px;
     border: blue groove;
@@ -24,7 +24,7 @@
     }
     
 .chest3{
-    background-color: blue;
+    background-color: purple;
     width: 153px;
     height: 108px;
     border: black dashed;
@@ -36,10 +36,10 @@
     }
     
 .chest4{
-    background-color: yellow ;
+    background-color: red ;
     width: 145px;
     height: 100px;
-    border: orangered dotted;
+    border: yellow;
     border-radius: 1cm 25cm 28cm 1cm;
     position: absolute;
     top: 372px;
